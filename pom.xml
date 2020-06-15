@@ -27,7 +27,7 @@
         <h2Version>1.4.182</h2Version>
 
         <hibernate.version>4.1.6.Final</hibernate.version>
-        <hibernate-validator.version>5.0.1.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.5.Final</hibernate-validator.version>
         <slf4j-jdk14.version>1.6.1</slf4j-jdk14.version>
         <slf4jVersion>1.7.5</slf4jVersion>
         <log4jVersion>1.2.14</log4jVersion>
